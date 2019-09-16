@@ -1,0 +1,4 @@
+gotoLogin:
+  - by: id
+    locator: iv_login_phone
+    action: click
